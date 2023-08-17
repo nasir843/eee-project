@@ -1,0 +1,21 @@
+p{
+    text-align: center;
+    background-color: gold;
+    color: crimson;
+    text-decoration: wavy;
+}
+#outer{
+    text-align: right;
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color:blueviolet;
+    color: black;
+
+}
+#inner{
+    text-decoration: line-through;
+    text-align: inherit;
+    text-transform: uppercase;
+    background-color: chartreuse;
+    color: firebrick;
+}
